@@ -44,7 +44,7 @@ This project helps users upload a health report (PDF), processes it using an AI 
 
 ## 📷 Screenshot
 
-> Add a screenshot of the app (recommended path: `docs/screenshot.png`)
+> Add a screenshot of the app (https://github.com/user-attachments/assets/0cb18890-3ee9-422a-8193-3f7dbfe4998e)
 
 ---
 
